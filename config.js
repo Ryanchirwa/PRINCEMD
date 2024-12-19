@@ -14,8 +14,8 @@ import dotenv from 'dotenv'
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +923092668108
-global.confirmCode = "" 
+global.botNumberCode = "Prince~BoZDhJjS#sGNkkXpJZOrieiG5d2zuDxmb5bUiYRugyGA-eWl82J8" //Example: +923092668108
+global.confirmCode = "Prince~BoZDhJjS#sGNkkXpJZOrieiG5d2zuDxmb5bUiYRugyGA-eWl82J8" 
 
 
 //💌------------------------------------------💌
@@ -117,7 +117,7 @@ global.princeImg = [imagen1, imagen2]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/0786313048' //contact
 //💌------------------------------------------💌
 
 
@@ -125,9 +125,9 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //Sticker WM
 global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '🛡️bleu rainz-ai-𝘔𝘋🛡️'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
+global.author = 'Ryan♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
