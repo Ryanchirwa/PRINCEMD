@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 import dotenv from 'dotenv'
 
 
-//💌------------------------------------------💌
+/8NDHGCSN0/💌------------------------------------------💌
 
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
